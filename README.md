@@ -7,6 +7,8 @@ The webpage has following uses:
 5) Customers can provide feedback online.
 6) Customers can use this web page in any device of their choice.
 
+Laptop and mobile view of the web page respectively is added below:
+
 ![first-webpage home laptop view](https://user-images.githubusercontent.com/63410980/119182225-458f2c80-ba90-11eb-8e47-622642dc99cf.png)
 
 ![first-webpage contact laptop view](https://user-images.githubusercontent.com/63410980/119182237-46c05980-ba90-11eb-9d3f-11439125e35d.png)
